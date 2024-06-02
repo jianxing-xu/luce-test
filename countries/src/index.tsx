@@ -8,7 +8,6 @@ import { start } from '@jianxing/auto-check-update'
 ReactDOM.render(
   <React.StrictMode>
     <App />
-    123
   </React.StrictMode>,
   document.getElementById('root')
 );
