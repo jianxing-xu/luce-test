@@ -2358,6 +2358,11 @@
     "@types/yargs" "^17.0.8"
     chalk "^4.0.0"
 
+"@jianxing/auto-check-update@^0.0.6":
+  version "0.0.6"
+  resolved "https://registry.yarnpkg.com/@jianxing/auto-check-update/-/auto-check-update-0.0.6.tgz#cce9b83539dce184b9fbea5b4d44cb6ebfb2a5ed"
+  integrity sha512-FYi4SQcQROoJSbprWMOka+WgZH+da78em9Ys9VmoPac0Bs+dRDJE3WWaypWpaI8PhRcYwzKBFk9/H197vvDmtg==
+
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
   resolved "https://registry.yarnpkg.com/@jridgewell/gen-mapping/-/gen-mapping-0.1.1.tgz#e5d2e450306a9491e3bd77e323e38d7aff315996"

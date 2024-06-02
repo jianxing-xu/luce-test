@@ -45,7 +45,7 @@ export function useCountries() {
 
 	function loadData() {
 		fetch('https://randomuser.me/api/?results=100').then(res => res.json()).then((res: { results: IUser[] }) => {
-			sortedUsers.current ˜ res.results.toSorted((a,b) => Date.parse(b.registered.date) - Date.parse(a.registered.date))
+			sortedUsers.current = res.results.toSorted((a,b) => Date.parse(b.registered.date) - Date.parse(a.registered.date))
 			processContries(sortedUsers.current)
 		})
 	}
