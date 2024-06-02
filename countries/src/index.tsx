@@ -20,6 +20,7 @@ reportWebVitals();
 start({
   onNotify() {
     console.log("update notify !!!")
+    return true
   },
   time: 2000
 })

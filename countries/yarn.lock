@@ -2358,10 +2358,10 @@
     "@types/yargs" "^17.0.8"
     chalk "^4.0.0"
 
-"@jianxing/auto-check-update@^0.0.6":
-  version "0.0.6"
-  resolved "https://registry.yarnpkg.com/@jianxing/auto-check-update/-/auto-check-update-0.0.6.tgz#cce9b83539dce184b9fbea5b4d44cb6ebfb2a5ed"
-  integrity sha512-FYi4SQcQROoJSbprWMOka+WgZH+da78em9Ys9VmoPac0Bs+dRDJE3WWaypWpaI8PhRcYwzKBFk9/H197vvDmtg==
+"@jianxing/auto-check-update@^0.0.7":
+  version "0.0.7"
+  resolved "https://registry.yarnpkg.com/@jianxing/auto-check-update/-/auto-check-update-0.0.7.tgz#e7d846303a7f8554b71e06cff1d2071c4957562a"
+  integrity sha512-Wxt8hQgiEW8Q7vu8SYJ5Xz0/j485gwB1yuS6kUpQ6Cj+PUwzjo5BYj+4YvWi82vqiOUM70WUDHg3+3reYOvQUg==
 
 "@jridgewell/gen-mapping@^0.1.0":
   version "0.1.1"
